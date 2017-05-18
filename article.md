@@ -1,4 +1,4 @@
-##Каково оно учить JavaScript в 2016
+## Каково оно учить JavaScript в 2016
 
 ![Image](https://cloud.githubusercontent.com/assets/17175648/26219262/e47ea2a0-3c16-11e7-99a0-aa7a71d83374.png)
 
