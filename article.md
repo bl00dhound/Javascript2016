@@ -349,3 +349,5 @@
 — Почему?
 
 — Слышал о Python 3?
+
+[Habrahabr](https://habrahabr.ru/post/312022/)
